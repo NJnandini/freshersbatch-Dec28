@@ -3,7 +3,11 @@
 	<head>
 		<style>
 		p{
+<<<<<<< HEAD
 			color: red;
+=======
+			color: blue;
+>>>>>>> css-assignments
 			text-align: center;
 		}
 		</style>
