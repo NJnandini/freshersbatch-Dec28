@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 	<html>
+	<head>
+	<h1> This JavaScript Console </h1>
+	p {
+		color: red;
+		text-align: center;
+	}
+	</head>
 	<body>
 	<h1> The Console Object </h1>
 	<h2> The log() Method </h2>
