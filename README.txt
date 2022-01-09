@@ -4,4 +4,3 @@ This folder also has the index of html topic
 This file is in Assignments repo
 This folder also has CSS files
 This is folder open in the vs code
-
